@@ -29,6 +29,11 @@ a {
   cursor: pointer;
 }
 
+.active-link {
+  color: pink;
+  border-bottom: 2px solid white;
+}
+
 .App-content {
   display: flex;
   justify-content: center;
